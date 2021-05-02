@@ -20,6 +20,8 @@ namespace BotInsta.Selenium
 
             try
             {
+                IWebElement btnSeguir = null;
+
                 webDriver.LoadPage(TimeSpan.FromSeconds(10), url);
                 webDriver.WaitFindElement(By.Name("username"), 10);
                 webDriver.WaitFindElement(By.Name("password"), 10);
@@ -35,7 +37,15 @@ namespace BotInsta.Selenium
                 Thread.Sleep(TimeSpan.FromSeconds(2));
                 webDriver.LoadPage(TimeSpan.FromSeconds(10), @"https://www.instagram.com/wilkson.carlos");
 
-                webDriver.FindElement(By.XPath("//button[contains(text(),'Follow')]")).Click();
+                try
+                {
+                    btnSeguir = webDriver.FindElement(By.XPath("//button[contains(text(),'Follow')]"));
+                    btnSeguir.Click();
+                }
+                catch (NoSuchElementException ex)
+                {
+                    Console.WriteLine("Já está seguindo");
+                }               
 
             }
             catch (Exception ex)
