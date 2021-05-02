@@ -34,9 +34,8 @@ namespace BotInsta.Selenium
                 webDriver.FindElement(By.XPath("//button[contains(text(),'Not')]")).Click();
                 Thread.Sleep(TimeSpan.FromSeconds(2));
                 webDriver.LoadPage(TimeSpan.FromSeconds(10), @"https://www.instagram.com/wilkson.carlos");
+
                 webDriver.FindElement(By.XPath("//button[contains(text(),'Follow')]")).Click();
-
-
 
             }
             catch (Exception ex)
