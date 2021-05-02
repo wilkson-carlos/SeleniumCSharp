@@ -19,7 +19,7 @@ namespace BotInsta.Selenium
                 Browser.Chrome, @"C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium\drive");
 
             try
-            { 
+            {
                 webDriver.LoadPage(TimeSpan.FromSeconds(10), url);
                 webDriver.WaitFindElement(By.Name("username"), 10);
                 webDriver.WaitFindElement(By.Name("password"), 10);
@@ -43,10 +43,11 @@ namespace BotInsta.Selenium
             {
                 Console.WriteLine(ex.Message);
             }
-
-
-
-            Console.ReadKey();
+            finally
+            {
+                webDriver.Close();
+                webDriver.Dispose();
+            }
         }
     }
 }
