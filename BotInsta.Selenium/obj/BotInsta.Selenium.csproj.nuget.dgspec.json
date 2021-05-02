@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium-megaSena\\botMegaSena\\BotInsta.Selenium\\BotInsta.Selenium.csproj": {}
+    "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium\\Bot\\BotInsta.Selenium\\BotInsta.Selenium.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium-megaSena\\botMegaSena\\BotInsta.Selenium\\BotInsta.Selenium.csproj": {
+    "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium\\Bot\\BotInsta.Selenium\\BotInsta.Selenium.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium-megaSena\\botMegaSena\\BotInsta.Selenium\\BotInsta.Selenium.csproj",
+        "projectUniqueName": "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium\\Bot\\BotInsta.Selenium\\BotInsta.Selenium.csproj",
         "projectName": "BotInsta.Selenium",
-        "projectPath": "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium-megaSena\\botMegaSena\\BotInsta.Selenium\\BotInsta.Selenium.csproj",
+        "projectPath": "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium\\Bot\\BotInsta.Selenium\\BotInsta.Selenium.csproj",
         "packagesPath": "C:\\Users\\Wilkson Cardoso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium-megaSena\\botMegaSena\\BotInsta.Selenium\\obj\\",
+        "outputPath": "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium\\Bot\\BotInsta.Selenium\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wilkson Cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0msGoQDQxMfwHsP3scpS+BOZRTvBv4/uIv75pFm2dNvPyTCjY8gcToa3YExQ7BXiAVJyMvaTsOH1Y4g97bzluw==",
+  "dgSpecHash": "vP1ShLvIOkvKP6S4yEwZp/hAMbzhAy+5YGMKLtyarGhKRq+vFwGWwvn9ajoBlzbtEewGv6slbcSO8Agusoykdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium-megaSena\\botMegaSena\\BotMegaSena\\BotMegaSena.csproj",
+  "projectFilePath": "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium\\Bot\\BotMegaSena\\BotMegaSena.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wilkson Cardoso\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512"
   ],

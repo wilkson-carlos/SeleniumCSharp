@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iYKzBJQIwTFJYC12fsP19SSWVkHWwxGzcyH6luR7Q1xwuX60+BbVXl30upHayDFk7KkSCK1q3ktrfKC1zFwe3A==",
+  "dgSpecHash": "5u9mrr+8Qr1IAaREmEnfDju9jf+GGN5XC86S/I3sX8e/GePmOWeKXsD4EQOTxz3n5KZbuKdiPMf9L7R1z/YXNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium-megaSena\\botMegaSena\\BotInsta.Selenium\\BotInsta.Selenium.csproj",
+  "projectFilePath": "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium\\Bot\\BotInsta.Selenium\\BotInsta.Selenium.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wilkson Cardoso\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\Wilkson Cardoso\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

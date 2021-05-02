@@ -16,7 +16,7 @@ namespace BotInsta.Selenium
 
             var url = "https://www.instagram.com/accounts/login/?source=auth_switcher";
             IWebDriver webDriver = WebDriverFactory.CreateWebDriver(
-                Browser.Chrome, @"C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium-megaSena\drive");
+                Browser.Chrome, @"C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium\drive");
 
             try
             { 

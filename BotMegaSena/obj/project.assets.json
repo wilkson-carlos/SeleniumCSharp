@@ -65,11 +65,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium-megaSena\\botMegaSena\\BotMegaSena\\BotMegaSena.csproj",
+      "projectUniqueName": "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium\\Bot\\BotMegaSena\\BotMegaSena.csproj",
       "projectName": "BotMegaSena",
-      "projectPath": "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium-megaSena\\botMegaSena\\BotMegaSena\\BotMegaSena.csproj",
+      "projectPath": "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium\\Bot\\BotMegaSena\\BotMegaSena.csproj",
       "packagesPath": "C:\\Users\\Wilkson Cardoso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium-megaSena\\botMegaSena\\BotMegaSena\\obj\\",
+      "outputPath": "C:\\Users\\Wilkson Cardoso\\Documents\\Projetos\\robos\\selenium\\Bot\\BotMegaSena\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wilkson Cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
