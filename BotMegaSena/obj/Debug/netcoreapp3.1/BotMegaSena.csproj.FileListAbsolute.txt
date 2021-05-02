@@ -1,0 +1,15 @@
+C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium-megaSena\botMegaSena\BotMegaSena\bin\Debug\netcoreapp3.1\BotMegaSena.exe
+C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium-megaSena\botMegaSena\BotMegaSena\bin\Debug\netcoreapp3.1\BotMegaSena.deps.json
+C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium-megaSena\botMegaSena\BotMegaSena\bin\Debug\netcoreapp3.1\BotMegaSena.runtimeconfig.json
+C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium-megaSena\botMegaSena\BotMegaSena\bin\Debug\netcoreapp3.1\BotMegaSena.runtimeconfig.dev.json
+C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium-megaSena\botMegaSena\BotMegaSena\bin\Debug\netcoreapp3.1\BotMegaSena.dll
+C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium-megaSena\botMegaSena\BotMegaSena\bin\Debug\netcoreapp3.1\BotMegaSena.pdb
+C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium-megaSena\botMegaSena\BotMegaSena\obj\Debug\netcoreapp3.1\BotMegaSena.csprojAssemblyReference.cache
+C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium-megaSena\botMegaSena\BotMegaSena\obj\Debug\netcoreapp3.1\BotMegaSena.AssemblyInfoInputs.cache
+C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium-megaSena\botMegaSena\BotMegaSena\obj\Debug\netcoreapp3.1\BotMegaSena.AssemblyInfo.cs
+C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium-megaSena\botMegaSena\BotMegaSena\obj\Debug\netcoreapp3.1\BotMegaSena.csproj.CoreCompileInputs.cache
+C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium-megaSena\botMegaSena\BotMegaSena\obj\Debug\netcoreapp3.1\BotMegaSena.dll
+C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium-megaSena\botMegaSena\BotMegaSena\obj\Debug\netcoreapp3.1\BotMegaSena.pdb
+C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium-megaSena\botMegaSena\BotMegaSena\obj\Debug\netcoreapp3.1\BotMegaSena.genruntimeconfig.cache
+C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium-megaSena\botMegaSena\BotMegaSena\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Wilkson Cardoso\Documents\Projetos\robos\selenium-megaSena\botMegaSena\BotMegaSena\obj\Debug\netcoreapp3.1\BotMegaSena.csproj.CopyComplete
